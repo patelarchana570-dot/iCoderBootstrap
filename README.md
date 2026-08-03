@@ -3,7 +3,7 @@ This is our Bootstrap website
 
 About
 
-iCoder is a responsive website created using HTML, CSS, and Bootstrap.
+iCoder is a responsive website created using HTML, CSS, and JavaScript.
 
 Features
 
@@ -16,4 +16,4 @@ Technologies Used
 
 - HTML
 - CSS
-- Bootstrap
+- JavaScript
